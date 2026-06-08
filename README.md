@@ -254,10 +254,6 @@ The following measurements were recorded during execution.
 | Range Scan Throughput | 309,836 Records/sec |
 | Update Support | Verified |
 
-The screenshot below shows the recorded performance statistics.
-
-![Performance Metrics](assets/performance_metrics.png)
-
 ### Analysis
 
 #### High Fanout
